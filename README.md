@@ -1,2 +1,2 @@
-# DPs-AI-Challange
+# DPS-AI-Challange
 Classic AI Challenge
