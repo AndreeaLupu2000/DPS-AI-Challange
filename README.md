@@ -30,7 +30,8 @@ Source: [Open Data München](https://opendata.muenchen.de/dataset/5e73a82b-7cfb-
 - pandas
 - statsmodels
 - numpy
-- scikit-learn
+- matplotlib
+- statsmodels
 - gunicorn (for deployment)
 
 ## Deployment
